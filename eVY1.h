@@ -4,10 +4,6 @@
 #include "midiClass.h"
 #include <stdint.h>
 
-#define BANK_SELECT_NORMAL  0x00
-#define BANK_SELECT_RAS     0x08
-#define BANK_SELECT_DRUMKIT 0x7f
-
 class Stream;
 
 class eVY1 : public midiClass {

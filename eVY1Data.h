@@ -1,0 +1,5 @@
+#define BANK_SELECT_NORMAL  0x00
+#define BANK_SELECT_RAS     0x08
+#define BANK_SELECT_DRUMKIT 0x7f
+
+
